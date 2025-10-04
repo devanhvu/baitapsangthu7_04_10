@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Baitapsangt70410Application<baitapsangt7_04_10>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.vn.baitapsangt7_04_10.Baitapsangt70410Application",
+            "projectName": "baitapsangt7_04_10",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
